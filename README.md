@@ -1,1 +1,1 @@
-# Tool
+Password Strength Checker
